@@ -1,2 +1,7 @@
 greetings:
   message: "Welcome to My App from the Config Service!"
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
