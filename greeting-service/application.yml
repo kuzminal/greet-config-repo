@@ -1,2 +1,2 @@
 greetings:
-	message: "Welcome to My App from the Config Service!"
+  message: "Welcome to My App from the Config Service!"
